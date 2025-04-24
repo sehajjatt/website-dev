@@ -1,2 +1,3 @@
 # website-dev
-I am learning that how to make website
+This is my first GIT Repository
+Author : Sahijveer singh
